@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+body{
+	background-image:url("C:/Users/Administrator/Desktop/hepta/hotel/img 5.jpg");
+	height: 100px;
+	background-size:cover;
+	background-position:center;
+	background-repeat: no-repeat;
+	font-family: 'Varela Round', sans-serif;
+}
+.para
+{
+    margin-left:125px;
+    margin-right:125px;
+    margin-bottom:50px;
+    font-size:20px;
+    line-height: 45px;
+    text-align: center;
+}
+.nav
+{
+	float:right;
+	list-style:none;
+	margin: top 15px;
+	margin-right:5px;
+}
+.nav li
+{
+	display:inline-block;
+}
+.nav li a
+{
+	color:rgb(14, 2, 66);
+	text-decoration:none;
+	padding:10px 30px;
+	font-size:15px;
+
+}
+
+.nav li a:hover
+{
+	border: 1px solid white;
+	background-color: #4CAF50;
+}
+
+.main
+{
+	background: -webkit-linear-gradient(rgb(10, 50, 131), rgb(119, 119, 207));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+font-size:50px;
+text-align: center;
+margin-top: 5px;
+margin-bottom: 350px;
+}
+.main2
+{
+font-size:25px;
+text-align: center;
+padding-top:220px;
+margin-bottom: 0px;
+text-transform: uppercase;
+letter-spacing: 5px;
+}
+.main6
+{
+font-size:45px;
+text-align: center;
+padding-top:100px;
+margin-bottom: 100px;
+
+text-transform: uppercase;
+letter-spacing: 5px;
+}
+.main3
+{
+color:white;
+font-size:50px;
+text-align: center;
+margin-top: 70px;
+}
+.photo1
+{
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.photo2
+{
+
+margin-top: 30px;
+margin-left: 10px;
+margin-right: 20px;
+}
+.table2{
+width: 100%;
+margin-bottom: 0px;
+margin-top: 0px;
+} 
+
+.table2 td{
+text-align: center;
+font-size: medium;
+font-style:oblique;
+vertical-align: text-top;
+text-transform: uppercase;
+}
+
+.table3{
+width: 1200px;
+border-collapse: collapse;
+border-radius: 65px;
+}
+
+.table3 td{
+text-align: center;
+}
+.table4{
+	width: 100%;
+	border-collapse: collapse;
+	border-radius: 35px;
+	}
+	
+.table4 tr{
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 300px;
+	font-size: larger;
+	}
+.main4
+	{
+	color:rgb(8, 8, 8);
+	text-align: center;
+	margin-bottom: 40px;
+	margin-top: 160px;
+	}	
+	.main5{
+		
+	background-image:url("C:/Users/Administrator/Desktop/hepta/hotel/img 8.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+background-position:center;
+	}
+.submit
+{
+margin-top: 20px;
+margin-bottom: 150px;
+  background-color: #944d4d;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+	margin: 5px 2px;
+  }
+  
+  .fa:hover {
+	  opacity: 0.7;
+  }
+  
+  .fa-facebook {
+	background: #3B5998;
+	color: white;
+  }
+  
+  .fa-twitter {
+	background: #55ACEE;
+	color: white;
+  }
+  
+  .fa-google {
+	background: #dd4b39;
+	color: white;
+  }
+  
+  .fa-instagram {
+	background: #125688;
+	color: white;
+  }
